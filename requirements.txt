@@ -15,3 +15,9 @@ sentencepiece>=0.1.99
 screeninfo>=0.8.1
 pyttsx3>=2.90
 huggingface_hub>=0.20.0
+# Дополнительные библиотеки для анализа звука и голосов
+librosa>=0.10.0
+sounddevice>=0.4.6
+scipy>=1.10.0
+scikit-learn>=1.2.0
+requests>=2.28.0
