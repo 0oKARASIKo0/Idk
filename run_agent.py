@@ -10,8 +10,8 @@ import argparse
 import logging
 from pathlib import Path
 
-# Add parent directory to path
-sys.path.insert(0, str(Path(__file__).parent.parent))
+# Add current directory to path to ensure qwen_agent module is found
+sys.path.insert(0, str(Path(__file__).parent))
 
 from qwen_agent.main import create_agent
 from qwen_agent import config
