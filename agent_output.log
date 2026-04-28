@@ -1,0 +1,36 @@
+2026-04-12 22:19:29,022 - qwen_agent.main - INFO - Initializing Qwen AI Agent...
+2026-04-12 22:19:29,610 - qwen_agent.agent - INFO - ThinkingAgent initialized with model: qwen2.5
+2026-04-12 22:19:29,611 - qwen_agent.mouse_keyboard - INFO - Screen resolution: 1680x1050
+2026-04-12 22:19:29,773 - qwen_agent.voice - INFO - VoiceRecognizer initialized with language: ru-RU
+2026-04-12 22:19:29,796 - qwen_agent.advanced_voice - INFO - Using randomly initialized model (needs training)
+2026-04-12 22:19:29,880 - qwen_agent.advanced_voice - INFO - AdvancedVoiceAnalyzer initialized on cpu
+2026-04-12 22:19:31,635 - qwen_agent.camera - INFO - CameraVision initialized with camera 0
+2026-04-12 22:19:31,638 - qwen_agent.screen_capture - INFO - ScreenCapture initialized - Monitor 0: 1680x1050
+2026-04-12 22:19:31,701 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Карась\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-04-12 22:19:31,701 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Карась\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+2026-04-12 22:19:31,866 - qwen_agent.tts - INFO - Using Russian voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_RU-RU_IRINA_11.0
+2026-04-12 22:19:31,867 - qwen_agent.tts - INFO - Started speech processor
+2026-04-12 22:19:31,867 - qwen_agent.tts - INFO - TextToSpeech initialized
+2026-04-12 22:19:31,868 - qwen_agent.memory - INFO - Memory system initialized: 0 short, 0 long, 261 chars in НеЗабыть
+2026-04-12 22:19:31,868 - qwen_agent.main - INFO - Qwen AI Agent initialized
+2026-04-12 22:19:31,868 - qwen_agent.main - INFO - Starting Qwen AI Agent...
+2026-04-12 22:19:31,996 - qwen_agent.gui - INFO - GUI started
+2026-04-12 22:19:31,997 - qwen_agent.agent - INFO - Started continuous thinking loop
+2026-04-12 22:19:31,998 - qwen_agent.mouse_keyboard - INFO - Started keyboard monitoring
+2026-04-12 22:19:31,999 - qwen_agent.voice - INFO - Started voice listening
+2026-04-12 22:19:32,000 - qwen_agent.advanced_voice - INFO - Started voice analysis
+2026-04-12 22:19:32,001 - qwen_agent.camera - INFO - Started camera capture
+2026-04-12 22:19:32,002 - qwen_agent.screen_capture - INFO - Started screen capture
+2026-04-12 22:19:32,002 - qwen_agent.main - INFO - Qwen AI Agent started successfully
+
+============================================================
+Qwen AI Agent - Interactive Mode
+============================================================
+Commands:
+  status - Show agent status
+  stop   - Stop the agent
+  start  - Start the agent
+  quit   - Exit the program
+============================================================
+
+> 
